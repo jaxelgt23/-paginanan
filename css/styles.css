@@ -1,0 +1,91 @@
+body{
+    background-color: black;
+    background-image: url('imagenes/galax.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+header{
+    background-color: black;
+    height: 200px;
+
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.head{
+    background-color:gray ;
+    height: 60px;
+
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+
+}
+.titul{
+    background-color: brown;
+    position: absolute;
+    margin-top: 1px;
+    color: white;
+    font-size: 50px;
+    background-color: 0;
+    float: left;
+    width: 30%;
+    margin-right: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main{
+    background-color: 0;
+    height: 1000px;
+    
+} 
+.cont{
+    width: 75%;
+    margin-right: auto;
+    background-color: blueviolet;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    border-radius: 20px;
+
+}
+.cont1{
+    width: 50%;
+    margin-right: auto;
+    background-color: rgb(73, 64, 155);
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    border-radius: 20px;
+
+}
+nav{
+    background-color:0;
+    float:right ;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+
+ul{
+    background-color: 0;
+    
+}
+li{
+    background-color: brown;
+    margin-top: 10px;
+    display: inline;
+
+}
+a{
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-right: 10px;
+
+}
